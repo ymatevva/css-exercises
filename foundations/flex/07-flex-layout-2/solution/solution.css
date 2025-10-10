@@ -30,6 +30,7 @@ body {
 
 /* SOLUTION */
 
+/* OK */
 body {
   display: flex;
   flex-direction: column;
@@ -81,6 +82,7 @@ a {
   width: 300px;
 }
 
+/* OK */
 .footer {
   display: flex;
   align-items: center;
